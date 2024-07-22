@@ -8,7 +8,8 @@
     "finishRect": "Bitirmek için tıklayın",
     "startCircle": "Daire merkezine yerleştirmek için tıklayın",
     "finishCircle": "Daireyi bitirmek için tıklayın",
-    "placeCircleMarker": "Daire işaretçisi yerleştirmek için tıklayın"
+    "placeCircleMarker": "Daire işaretçisi yerleştirmek için tıklayın",
+    "placeText": "Metin yerleştir"
   },
   "actions": {
     "finish": "Bitir",
@@ -28,6 +29,20 @@
     "drawCircleMarkerButton": "Daire işaretçisi çiz",
     "snappingButton": "Sürüklenen işaretçiyi diğer katmanlara ve köşelere yapıştır",
     "pinningButton": "Paylaşılan köşeleri birbirine sabitle",
-    "rotateButton": "Katmanı döndür"
+    "rotateButton": "Katmanı döndür",
+    "drawTextButton": "Yazı Yaz",
+    "scaleButton": "Katmanları Ölçeklendir",
+    "autoTracingButton": "Otomatik izleme Hattı"
+  },
+  "measurements": {
+    "totalLength": "Uzunluk",
+    "segmentLength": "Bölüm Uzunluğu",
+    "area": "Alan",
+    "radius": "Yarıçap",
+    "perimeter": "Çevre",
+    "height": "Yükseklik",
+    "width": "Genişlik",
+    "coordinates": "Konum",
+    "coordinatesMarker": "Konum İşaretçisi"
   }
 }
